@@ -1,0 +1,15 @@
+{
+    "name": "aplicacao/prova",
+    "authors": [
+        {
+            "name": "Caio do Amaral Alves",
+            "email": "caio.alves@superteia.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "app\\" : "app/"
+        }
+    }
+}
